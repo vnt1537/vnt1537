@@ -45,9 +45,9 @@ Current focus areas include:
 
 ### 🧠 LLM & RAG Systems
 
-<p align="center">
-LangChain • Hugging Face Transformers • LoRA • RAG Architectures • Vector Databases • Prompt Engineering • MLflow
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=langchain,huggingface,mlflow,pinecone,qdrant,milvus,postgresql,redis,mongodb" />
+</div>
 
 ---
 

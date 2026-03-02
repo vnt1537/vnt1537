@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi 👋, I'm Vinit
+# Hi 👋 I'm Vinit
 
-### Dr.-Ing. | Federated Learning | Industrial AI | Computer Vision
+### Dr.-Ing. | Federated Learning | Industrial AI | LLM Systems | Computer Vision
 
 <img src="https://komarev.com/ghpvc/?username=vnt1537&color=blue" alt="Profile Views"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/vinit-hegiste" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
@@ -18,37 +18,51 @@
 
 ## 👨‍💻 About Me
 
-🎓 I am a Doctor of Engineering specializing in **Federated Learning for Quality Inspection in Manufacturing**, based in Germany.
+Doctor of Engineering specializing in **Federated Learning, Distributed AI, and Industrial Computer Vision**, based in Germany.
 
-💡 I build:
+I design and deploy privacy-preserving AI systems for real-world production environments, combining research depth with hands-on engineering.
 
--  Federated Learning systems under non-IID data distributions  
--  Federated Object Detection (YOLO-based architectures)  
--  Edge AI pipelines for NVIDIA Jetson  
--  Industrial Computer Vision solutions  
--  Communication-efficient distributed training systems  
+Current focus areas include:
 
-🌱 Passionate about turning research into deployable industrial AI systems.
+• Federated Learning under non-IID constraints  
+• Federated Object Detection (YOLO architectures)  
+• LoRA-based LLM fine-tuning  
+• Retrieval-Augmented Generation (RAG) systems  
+• Edge AI deployment on NVIDIA Jetson  
+• Communication-efficient distributed training  
 
 ---
 
 ## 🛠 Tech Stack
 
+### 🤖 Machine Learning & Vision
+
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,linux,git,nodejs,ts,angular,mysql,mongodb" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
 </div>
 
 ---
 
-## 🤝 Let’s Collaborate
+### 🧠 LLM & RAG Systems
 
-I’m always open to collaborating on:
+<p align="center">
+LangChain • Hugging Face Transformers • LoRA • RAG Architectures • Vector Databases • Prompt Engineering • MLflow
+</p>
 
-- Federated Learning research  
-- Industrial AI systems  
-- Edge AI optimization  
-- Applied Computer Vision projects  
+---
 
-Feel free to connect on LinkedIn or explore my repositories ⭐
+### ⚙️ Systems & Engineering
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,nodejs,ts,angular,mysql,mongodb" />
+</div>
+
+---
+
+## 🤝 Collaboration
+
+Interested in:
+
+Federated Learning • Distributed LLMs • Industrial AI • Edge Deployment • Privacy-Preserving ML
+
+Open to research collaborations, consulting opportunities, and advanced AI engineering projects.

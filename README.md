@@ -1,69 +1,54 @@
-<!-- HEADER -->
 <div align="center">
-  <h1>👋 Hi there, I'm Vinit</h1>
-  <p>Dr.-Ing. • Federated Learning • Industrial AI • Computer Vision</p>
-</div>
 
-<!-- PROFILE VISITOR BADGE -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vnt1537&color=blue" alt="Profile Views" />
-</p>
+# Hi 👋, I'm Vinit
+
+### Dr.-Ing. | Federated Learning | Industrial AI | Computer Vision
+
+<img src="https://komarev.com/ghpvc/?username=vnt1537&color=blue" alt="Profile Views"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vinit-hegiste" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I am a PhD graduate and AI researcher focused on **Federated Learning for Quality Inspection** and **Industrial Computer Vision** based in Germany.
+🎓 I am a Doctor of Engineering specializing in **Federated Learning for Quality Inspection in Manufacturing**, based in Germany.
 
-I build:
-- Federated Learning systems under real-world, non-IID constraints  
-- Vision models for production environments  
-- Edge AI pipelines (e.g., NVIDIA Jetson deployments)  
-- Research-grade experimental frameworks  
+💡 I build:
 
-📌 I have a strong background in both **theory and hands-on AI system development**, and I continuously publish and contribute to open-source research code and tools.
+- 🔹 Federated Learning systems under non-IID data distributions  
+- 🔹 Federated Object Detection (YOLO-based architectures)  
+- 🔹 Edge AI pipelines for NVIDIA Jetson  
+- 🔹 Industrial Computer Vision solutions  
+- 🔹 Communication-efficient distributed training systems  
 
----
-
-## 🛠️ Skills & Tech Stack
-
-**Machine Learning & AI:**  
-`PyTorch` • `TensorFlow` • `scikit-learn` • `YOLOv8` • `Flower` • `OpenCV`
-
-**Systems & Deployment:**  
-`Docker` • `NVIDIA Jetson` • `Linux` • `Git`
-
-**Backend & Full Stack:**  
-`Node.js` • `TypeScript` • `REST APIs`
-
-**Data & Engineering:**  
-`Pandas` • `NumPy` • `SQL` • `CI/CD`
+🌱 Passionate about turning research into deployable industrial AI systems.
 
 ---
 
-## 📌 GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vnt1537&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnt1537&layout=compact" alt="Top Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,linux,git,nodejs,ts,angular,mysql,mongodb" />
+
+</div>
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Collaborate
 
-**LinkedIn:** https://www.linkedin.com/in/vinit-hegiste  
-**Email:** (add email here)
+I’m always open to collaborating on:
 
----
+- Federated Learning research  
+- Industrial AI systems  
+- Edge AI optimization  
+- Applied Computer Vision projects  
 
-## 🚀 What I’m Working On
-
-I’m currently evolving federated object detection research and building reproducible experiments around *Federated YOLO models with Flower* and *hybrid synthetic + real datasets*.
-
----
-
-Thank you for visiting my profile! ⭐
+Feel free to connect on LinkedIn or explore my repositories ⭐

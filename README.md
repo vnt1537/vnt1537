@@ -22,11 +22,11 @@
 
 💡 I build:
 
-- 🔹 Federated Learning systems under non-IID data distributions  
-- 🔹 Federated Object Detection (YOLO-based architectures)  
-- 🔹 Edge AI pipelines for NVIDIA Jetson  
-- 🔹 Industrial Computer Vision solutions  
-- 🔹 Communication-efficient distributed training systems  
+-  Federated Learning systems under non-IID data distributions  
+-  Federated Object Detection (YOLO-based architectures)  
+-  Edge AI pipelines for NVIDIA Jetson  
+-  Industrial Computer Vision solutions  
+-  Communication-efficient distributed training systems  
 
 🌱 Passionate about turning research into deployable industrial AI systems.
 

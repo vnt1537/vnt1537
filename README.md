@@ -16,10 +16,10 @@
 🎓 I am a PhD graduate and AI researcher focused on **Federated Learning for Quality Inspection** and **Industrial Computer Vision** based in Germany.
 
 I build:
-- 🔹 Federated Learning systems under real-world, non-IID constraints  
-- 🔹 Vision models for production environments  
-- 🔹 Edge AI pipelines (e.g., NVIDIA Jetson deployments)  
-- 🔹 Research-grade experimental frameworks  
+- Federated Learning systems under real-world, non-IID constraints  
+- Vision models for production environments  
+- Edge AI pipelines (e.g., NVIDIA Jetson deployments)  
+- Research-grade experimental frameworks  
 
 📌 I have a strong background in both **theory and hands-on AI system development**, and I continuously publish and contribute to open-source research code and tools.
 

@@ -46,10 +46,10 @@ Current focus areas include:
 ### 🧠 LLM & RAG Systems
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=langchain,huggingface,mlflow,pinecone,qdrant,milvus,postgresql,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=langchain,huggingface,mlflow,pinecone,qdrant,milvus" />
 </div>
 
----
+
 
 ### ⚙️ Systems & Engineering
 
